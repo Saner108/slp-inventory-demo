@@ -1,0 +1,8 @@
+.DS_Store
+~$*
+*.accdb
+*.laccdb
+*.mdb
+*.ldb
+*.tmp
+*.log

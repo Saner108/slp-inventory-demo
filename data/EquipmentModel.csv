@@ -1,0 +1,274 @@
+ModelID,CategoryID,Manufacturer,ModelName,Description,StandardDailyRate,OriginalModelCode,ReviewNote
+1,1,,Behringer X32 Producer,,,MOD-0001,
+2,1,,Behringer X32 Rack,,,MOD-0002,
+3,1,,DiGiCo SD12 96 Console,,,MOD-0003,
+4,1,,Mackie ProFX 12x2,,,MOD-0004,
+5,1,,Mackie ProFX 16x2,,,MOD-0005,
+6,1,,Mackie ProFX 8x2,,,MOD-0006,
+7,1,,Midas M32,,,MOD-0007,
+8,1,,Midas M32R,,,MOD-0008,
+9,1,,Midas MR18,,,MOD-0009,
+10,1,,Midas PRO2-CC-TP,,,MOD-0010,
+11,2,,Pioneer CDJ-2000 NXS2,,,MOD-0011,
+12,2,,Pioneer CDJ-3000,,,MOD-0012,
+13,2,,"Pioneer DDJ-SX2, SZ2",,,MOD-0013,Grouped or series label; confirm the exact model for each unit.
+14,2,,Pioneer DJM-A9,,,MOD-0014,
+15,2,,Pioneer DJM-900 NXS2,,,MOD-0015,
+16,2,,Pioneer DJM-S7,,,MOD-0016,
+17,2,,Pioneer DJM-S11,,,MOD-0017,
+18,2,,Technics 1200 MD3,,,MOD-0018,
+19,2,,Technics SL-1200MK7-S,,,MOD-0019,
+20,3,,"d&b audiotechnik J8, J12",,,MOD-0020,Grouped or series label; confirm the exact model for each unit.
+21,3,,"d&b audiotechnik KSL8, KSL12",,,MOD-0021,Grouped or series label; confirm the exact model for each unit.
+22,3,,"d&b audiotechnik V8, V12",,,MOD-0022,Grouped or series label; confirm the exact model for each unit.
+23,3,,QSC KLA-12,,,MOD-0023,
+24,3,,RCF HDL 26-A,,,MOD-0024,Includes sample source rows; verify ownership and exact model.
+25,4,,d&b audiotechnik B22 SUB,,,MOD-0025,
+26,4,,d&b audiotechnik J-SUB,,,MOD-0026,
+27,4,,d&b audiotechnik SL-SUB,,,MOD-0027,
+28,4,,d&b audiotechnik V-SUB,,,MOD-0028,
+29,4,,RCF 9004-AS,,,MOD-0029,
+30,4,,QSC KSUB,,,MOD-0030,
+31,4,,QSC KLA 181,,,MOD-0031,
+32,4,,QSC KW 181,,,MOD-0032,
+33,5,,Audio Technica 3000 Series,,,MOD-0033,Grouped or series label; confirm the exact model for each unit.
+34,5,,CatchBox,,,MOD-0034,
+35,5,,Countryman E6,,,MOD-0035,
+36,5,,DPA 4080 Lavalier,,,MOD-0036,
+37,5,,DPA 4288 Headset,,,MOD-0037,
+38,5,,Earthworks FM 500,,,MOD-0038,
+39,5,,Sennheiser G3 Series,,,MOD-0039,Grouped or series label; confirm the exact model for each unit.
+40,5,,Shure Axient Wireless System,,,MOD-0040,
+41,5,,Shure QLX-D,,,MOD-0041,
+42,5,,Wired Mic – AT,,,MOD-0042,
+43,5,,Wired Mic – Shure,,,MOD-0043,
+44,5,,Wired Mic – Senheiser,,,MOD-0044,
+45,6,,Midas DL32,,,MOD-0045,
+46,6,,Midas DL231,,,MOD-0046,
+47,6,,Midas DL16,,,MOD-0047,
+48,6,,K&M Mic Stands,,,MOD-0048,
+49,6,,Radial ProDI,,,MOD-0049,
+50,6,,RF Venue CP Beam Antenna,,,MOD-0050,
+51,6,,Shure PSM 1000 System,,,MOD-0051,
+52,6,,Silent Disco Headphones & TX,,,MOD-0052,
+53,6,,Waves SuperRack Touring Package,,,MOD-0053,
+54,6,,"Whirlwind Director DI, PCDI",,,MOD-0054,Grouped or series label; confirm the exact model for each unit.
+55,6,,Zoom H4N Pro,,,MOD-0055,
+56,7,,Electro-Voice EVOLVE 50M,,,MOD-0056,
+57,7,,d&b audiotechnik M4,,,MOD-0057,
+58,7,,d&b audiotechnik Y10P,,,MOD-0058,
+59,7,,QSC K10 / K10.2,,,MOD-0059,Grouped or series label; confirm the exact model for each unit.
+60,7,,QSC K12 / K12.2,,,MOD-0060,Grouped or series label; confirm the exact model for each unit.
+61,7,,QSC KW152,,,MOD-0061,
+62,7,,RCF NX12 / NX15,,,MOD-0062,Grouped or series label; confirm the exact model for each unit.
+63,8,,AC + Edison Power,,,MOD-0063,"Verify cable manufacturer, type, length and connectors."
+64,8,,DMX,,,MOD-0064,"Verify cable manufacturer, type, length and connectors."
+65,8,,Ethercon,,,MOD-0065,"Verify cable manufacturer, type, length and connectors."
+66,8,,Feeder,,,MOD-0066,"Verify cable manufacturer, type, length and connectors."
+67,8,,HDMI,,,MOD-0067,"Verify cable manufacturer, type, length and connectors."
+68,8,,L21-30,,,MOD-0068,"Verify cable manufacturer, type, length and connectors."
+69,8,,L21-31,,,MOD-0069,"Verify cable manufacturer, type, length and connectors."
+70,8,,L21-32,,,MOD-0070,"Verify cable manufacturer, type, length and connectors."
+71,8,,L21-33,,,MOD-0071,"Verify cable manufacturer, type, length and connectors."
+72,8,,L21-34,,,MOD-0072,"Verify cable manufacturer, type, length and connectors."
+73,8,,L21-35,,,MOD-0073,"Verify cable manufacturer, type, length and connectors."
+74,8,,L21-36,,,MOD-0074,"Verify cable manufacturer, type, length and connectors."
+75,8,,L21-37,,,MOD-0075,"Verify cable manufacturer, type, length and connectors."
+76,8,,L21-38,,,MOD-0076,"Verify cable manufacturer, type, length and connectors."
+77,8,,L21-39,,,MOD-0077,"Verify cable manufacturer, type, length and connectors."
+78,8,,L21-40,,,MOD-0078,"Verify cable manufacturer, type, length and connectors."
+79,8,,NL4/8,,,MOD-0079,"Verify cable manufacturer, type, length and connectors."
+80,8,,SDI,,,MOD-0080,"Verify cable manufacturer, type, length and connectors."
+81,8,,Snake,,,MOD-0081,"Verify cable manufacturer, type, length and connectors."
+82,8,,SOCO,,,MOD-0082,"Verify cable manufacturer, type, length and connectors."
+83,8,,XLR,,,MOD-0083,"Verify cable manufacturer, type, length and connectors."
+84,8,,CBI 56 Channel 2-Way Splitter,,,MOD-0084,"Verify cable manufacturer, type, length and connectors."
+85,9,,AJA KiPro Ultra 4K,,,MOD-0085,
+86,9,,AJA KiProRack,,,MOD-0086,
+87,9,,AJA KiPro Go,,,MOD-0087,
+88,9,,Blackmagic 6K Cinema,,,MOD-0088,
+89,9,,BirdDog P400 PTZ,,,MOD-0089,
+90,9,,Canon 250D / SL3,,,MOD-0090,Grouped or series label; confirm the exact model for each unit.
+91,9,,"Canon T6, T6i",,,MOD-0091,Grouped or series label; confirm the exact model for each unit.
+92,9,,Canon XF 305,,,MOD-0092,
+93,9,,GoPro Series,,,MOD-0093,Grouped or series label; confirm the exact model for each unit.
+94,9,,Tekadek Bolt 1000,,,MOD-0094,
+95,9,,Spider Support Systems SP2,,,MOD-0095,
+96,10,,Clear-Com FreeSpeak FSII,,,MOD-0096,
+97,10,,Motorola Radios,,,MOD-0097,
+98,10,,Production Intercom - Wired,,,MOD-0098,
+99,10,,Eartec – Wireless,,,MOD-0099,
+100,11,,"Apple iPad, iPadMini",,,MOD-0100,Grouped or series label; confirm the exact model for each unit.
+101,11,,Apple Mac Mini,,,MOD-0101,
+102,11,,Apple MacBook Pro 16”,,,MOD-0102,
+103,11,,Apple MacBook Pro 15”,,,MOD-0103,
+104,11,,Apple MacBook Pro 13”,,,MOD-0104,
+105,11,,PC Laptop w/ MS Office,,,MOD-0105,Grouped or series label; confirm the exact model for each unit.
+106,11,,Playback Pro,,,MOD-0106,"Confirm hardware, software license or bundle classification."
+107,11,,QLAB,,,MOD-0107,"Confirm hardware, software license or bundle classification."
+108,12,,Drape – Black,,,MOD-0108,
+109,12,,Drape – White,,,MOD-0109,
+110,12,,Drape – White Sheer,,,MOD-0110,
+111,12,,Drape – Gold Sheer,,,MOD-0111,
+112,12,,Drape – Silver,,,MOD-0112,
+113,12,,Drape – Presidential Blue,,,MOD-0113,
+114,12,,Metal Mesh – Silver,,,MOD-0114,
+115,12,,Podium – Wood,,,MOD-0115,
+116,12,,Podium – Metal,,,MOD-0116,
+117,12,,Podium – Acrylic,,,MOD-0117,
+118,12,,Podium – Toast,,,MOD-0118,
+119,13,,Altman Boom Base,,,MOD-0119,
+120,13,,"Applied L11, L16",,,MOD-0120,Grouped or series label; confirm the exact model for each unit.
+121,13,,"AP Box Truss 12” – 10’, 8’, 5’, 2.5’,",,,MOD-0121,Grouped or series label; confirm the exact model for each unit.
+122,13,,"Corner, Base 36“, Base 48“",,,MOD-0122,Grouped or series label; confirm the exact model for each unit. Possible source continuation fragment; verify the full description.
+123,13,,"Chain Hoists, Manual",,,MOD-0123,Grouped or series label; confirm the exact model for each unit.
+124,13,,Genie ST-25 Super Tower,,,MOD-0124,
+125,13,,"Global Truss F34 .5M, .75M, 1M,",,,MOD-0125,Grouped or series label; confirm the exact model for each unit.
+126,13,,"1.5M, 2M, 3M, T, 135, Corner, Top Plate",,,MOD-0126,Grouped or series label; confirm the exact model for each unit. Possible source continuation fragment; verify the full description.
+127,13,,"Loadstar ½-Ton SP, 1-Ton 3P Motor",,,MOD-0127,Grouped or series label; confirm the exact model for each unit.
+128,13,,Tyler Truss GT Plus – 96“,,,MOD-0128,
+129,13,,Tyler Truss GT Plus – Baseplate,,,MOD-0129,
+130,14,,ADJ Focus Spot 6Z,,,MOD-0130,
+131,14,,Ayrton Diablo-S LED Spot,,,MOD-0131,
+132,14,,Chauvet Color STRIKE M,,,MOD-0132,
+133,14,,Chauvet Maverick Storm 4,,,MOD-0133,
+134,14,,Chauvet Rogue Outcast 1,,,MOD-0134,
+135,14,,Elation Proteus Rayzor 760,,,MOD-0135,
+136,14,,Elation Proteus Rayzor 1960,,,MOD-0136,
+137,14,,PR Aqua 480 BWS – IP65,,,MOD-0137,
+138,14,,PR BWS 440 - Beam/Wash/Spot,,,MOD-0138,Grouped or series label; confirm the exact model for each unit.
+139,14,,PR X-LED 1061 - Wash,,,MOD-0139,
+140,14,,XM Lite Beam 7R,,,MOD-0140,
+141,14,,XM Lite 1915 LED Zoom Wash,,,MOD-0141,
+142,15,,Avolites Titan Mobile,,,MOD-0142,
+143,15,,ETC ColorSource 20 AV,,,MOD-0143,
+144,15,,"Leviton 16ch, 32ch",,,MOD-0144,Grouped or series label; confirm the exact model for each unit.
+145,15,,MA grandMA3 Light,,,MOD-0145,
+146,15,,MA grandMA3 Processing Unit M,,,MOD-0146,
+147,15,,Obsidian NX-Touch,,,MOD-0147,
+148,15,,Obsidian NX Wing,,,MOD-0148,
+149,15,,Obsidian NX1 (+ NX K),,,MOD-0149,
+150,15,,Obsidian NX-2,,,MOD-0150,
+151,15,,Obsidian NX4,,,MOD-0151,
+152,16,,"Elation Inline Dimmer 1ch, 6ch",,,MOD-0152,Grouped or series label; confirm the exact model for each unit.
+153,16,,ETC 2.4K 24 Channel Sensor Rack,,,MOD-0153,
+154,16,,ETC Source 4 - Ellipsoidal,,,MOD-0154,
+155,16,,"(5,10,14,19,26,36,50,70,90)",,,MOD-0155,Grouped or series label; confirm the exact model for each unit. Possible source continuation fragment; verify the full description.
+156,16,,ETC Source 4 Jr. Zoom - White,,,MOD-0156,
+157,16,,ETC Source 4 PAR,,,MOD-0157,
+158,16,,LEX Slim-Dim,,,MOD-0158,
+159,17,,ADJ Flat PAR 7,,,MOD-0159,
+160,17,,Airstar Crystal Pixel M White 160cm,,,MOD-0160,
+161,17,,"Ape Labs Mini, Maxi, Maxi 2.0",,,MOD-0161,Grouped or series label; confirm the exact model for each unit.
+162,17,,Ape Labs Stick XL 2.0,,,MOD-0162,
+163,17,,Astera AX2 PixelBar (50cm & 1m),,,MOD-0163,
+164,17,,Astera AX5 IP65 Wireless LED PAR,,,MOD-0164,
+165,17,,Astera Titan Tubes,,,MOD-0165,
+166,17,,Chauvet Freedom Stick,,,MOD-0166,
+167,17,,"Chauvet Ovation Rêve E-3 IP, Non-IP",,,MOD-0167,Grouped or series label; confirm the exact model for each unit.
+168,17,,"Chauvet STRIKE Array 2, 4",,,MOD-0168,Grouped or series label; confirm the exact model for each unit.
+169,17,,Chroma-Q Color Force II 72,,,MOD-0169,
+170,17,,Elation KL Panel,,,MOD-0170,
+171,17,,Elation KL Fresnel 8” FC,,,MOD-0171,
+172,17,,Elation Pixel Bar 30IP,,,MOD-0172,
+173,17,,Elation Pixel Bar 60IP,,,MOD-0173,
+174,17,,Elation Pixel Bar 120IP,,,MOD-0174,
+175,17,,"Fuel Light: Angle Spot, Wash, Zoom",,,MOD-0175,Grouped or series label; confirm the exact model for each unit.
+176,17,,PR Cubix 500,,,MOD-0176,
+177,17,,Prestige IP65 12x8 LED PAR RGBW,,,MOD-0177,
+178,17,,Prestige IP65 18x8 LED PAR RGBW,,,MOD-0178,
+179,17,,Prestige IP65 30x8 LED PAR RGBW,,,MOD-0179,
+180,18,,LEX 100A 3 Phase - (15) Duplex,,,MOD-0180,
+181,18,,Cube Series 5-Wire & Edison Distro,,,MOD-0181,Grouped or series label; confirm the exact model for each unit.
+182,18,,Whirlwind 250A 3/P 110V,,,MOD-0182,Grouped or series label; confirm the exact model for each unit.
+183,18,,Whirlwind 250A 3/P 110/208V,,,MOD-0183,Grouped or series label; confirm the exact model for each unit.
+184,19,,ADJ Entour Snow Machine,,,MOD-0184,
+185,19,,Blacklight / UV,,,MOD-0185,Grouped or series label; confirm the exact model for each unit.
+186,19,,Chauvet B-200 Bubble Machine,,,MOD-0186,
+187,19,,Chauvet Firebird Flame Effect,,,MOD-0187,
+188,19,,Chauvet Fog Machine,,,MOD-0188,
+189,19,,Chauvet Geyser RGB,,,MOD-0189,
+190,19,,Chauvet Nimbus,,,MOD-0190,
+191,19,,Club Cannon Handheld MKII,,,MOD-0191,
+192,19,,Club Cannon Cryo Jet,,,MOD-0192,
+193,19,,Confetti Horn (Continuous Flow),,,MOD-0193,
+194,19,,Confetti Launcher (Handheld),,,MOD-0194,
+195,19,,HES FQ-100 Fog Machine,,,MOD-0195,
+196,19,,Lemaitre G150 Fog Machine,,,MOD-0196,
+197,19,,MDG Ice Fog Q,,,MOD-0197,
+198,19,,Mirror Ball 36”,,,MOD-0198,
+199,19,,Mirror Ball 24”,,,MOD-0199,
+200,19,,Mirror Ball 20”,,,MOD-0200,
+201,19,,Mirror Ball 16”,,,MOD-0201,
+202,19,,Mirror Ball 12”,,,MOD-0202,
+203,19,,Mirror Ball 8”,,,MOD-0203,
+204,19,,Sparkular Indoor Spark Fountain,,,MOD-0204,
+205,19,,Ultratec Air Cannon,,,MOD-0205,
+206,19,,Ultratec Bubble Master DMX,,,MOD-0206,
+207,19,,Ultratec Pro Confetti Launcher,,,MOD-0207,
+208,19,,Ultratec Radiance Hazer Tour Pack,,,MOD-0208,
+209,19,,Wildfire UV,,,MOD-0209,
+210,20,,APEX 3224 Mobile Stage,,,MOD-0210,
+211,20,,Bil-Jax Staging - 4’x4’,,,MOD-0211,
+212,20,,Bil-Jax Staging - 4’x8’,,,MOD-0212,
+213,20,,Stageline SL 100,,,MOD-0213,
+214,20,,StageRight 48” ADA Access Ramp,,,MOD-0214,
+215,20,,StageRight Staging - 4’x8’,,,MOD-0215,
+216,20,,StageRight Staging - 4’x4’,,,MOD-0216,
+217,20,,Stage Stairs 1-8 Tread,,,MOD-0217,Grouped or series label; confirm the exact model for each unit.
+218,21,,Blackmagic ATEM Mini Pro,,,MOD-0218,Same label appears under another code; review before merging.
+219,21,,Blackmagic 6K Cinema Camera,,,MOD-0219,
+220,21,,Canon SL3,,,MOD-0220,
+221,21,,Canon 250D,,,MOD-0221,
+222,21,,Magewell Pro Capture Card (HDMI),,,MOD-0222,
+223,21,,Magewell Pro Capture Card (SDI),,,MOD-0223,
+224,21,,Tricaster TC II Elite Fly Pack,,,MOD-0224,Same label appears under another code; review before merging.
+225,21,,VLOG Ring Light,,,MOD-0225,
+226,22,,NovaStar MCTRL 4K,,,MOD-0226,
+227,22,,NovaStar MCTRL 660,,,MOD-0227,
+228,22,,NovaStar MCTRL R5,,,MOD-0228,
+229,22,,NovaStar MX40 Pro,,,MOD-0229,
+230,22,,NovaStar VX4S,,,MOD-0230,
+231,22,,NovaStar NovaProHD,,,MOD-0231,
+232,22,,YesTech 4.8MIL Indoor / Outdoor,,,MOD-0232,Grouped or series label; confirm the exact model for each unit.
+233,22,,YesTech 2.8MIL Indoor,,,MOD-0233,
+234,23,,"DAC 60, 70, 7, 8P, 9P",,,MOD-0234,Grouped or series label; confirm the exact model for each unit.
+235,23,,Decimator MD-LX,,,MOD-0235,
+236,23,,Playback Pro Plus Software/Dongle,,,MOD-0236,"Grouped or series label; confirm the exact model for each unit. Confirm hardware, software license or bundle classification."
+237,23,,"Teradek Bolt 1000 L T – TX, RX",,,MOD-0237,Grouped or series label; confirm the exact model for each unit.
+238,24,,DSAN Perfect Cue Mini / Micro,,,MOD-0238,Grouped or series label; confirm the exact model for each unit.
+239,24,,DSAN Speaker Timer,,,MOD-0239,
+240,25,,Christie Roadster HD 10K-M,,,MOD-0240,
+241,25,,Christie Roadster HD 14K-M,,,MOD-0241,
+242,25,,Christie LWU502 5000 LM,,,MOD-0242,
+243,25,,Hitachi CP-AW312WN Short,,,MOD-0243,
+244,25,,Optima 460ST 4200 LM Short,,,MOD-0244,
+245,25,,Panasonic EW640 5800 LM,,,MOD-0245,
+246,25,,Panasonic PT-DW830 UK 8500 LM,,,MOD-0246,
+247,25,,Panasonic PT-RZ890LBU Laser 8500LM,,,MOD-0247,
+248,26,,AV Stumpfl 11’ x 20’,,,MOD-0248,
+249,26,,AV Stumpfl 7’ x 12’,,,MOD-0249,
+250,26,,AV Stumpfl  9’x16’,,,MOD-0250,
+251,26,,Da-Lite 5’ x 8’,,,MOD-0251,
+252,26,,Delvcam 4KSDI28,,,MOD-0252,
+253,26,,Tripod / Cradle Screen: 5’ – 12’,,,MOD-0253,Grouped or series label; confirm the exact model for each unit.
+254,26,,Video Monitor - 32”,,,MOD-0254,
+255,26,,Video Monitor - 70”,,,MOD-0255,
+256,26,,Video Monitor - 40”,,,MOD-0256,
+257,26,,Video Monitor - 55”,,,MOD-0257,
+258,26,,Video Monitor - 60”,,,MOD-0258,
+259,27,,Analog Way Vio 4K,,,MOD-0259,
+260,27,,Blackmagic ATEM Mini Pro,,,MOD-0260,Same label appears under another code; review before merging.
+261,27,,Data Video SE 2800,,,MOD-0261,
+262,27,,Resolume 4K Media Server,,,MOD-0262,"Confirm hardware, software license or bundle classification."
+263,27,,Roland V-600UHD 4K,,,MOD-0263,
+264,27,,Roland V-800HD,,,MOD-0264,
+265,27,,Roland V-800HD MK2,,,MOD-0265,
+266,27,,Roland V-1SDI,,,MOD-0266,
+267,27,,Roland V-02-HD,,,MOD-0267,
+268,27,,Roland VR-50HD,,,MOD-0268,
+269,27,,Tricaster TC II Elite Fly Pack,,,MOD-0269,Same label appears under another code; review before merging.
+270,7,,QSC K12.2,,,MOD-0270,Includes sample source rows; verify ownership and exact model.
+271,7,,QSC K10.2,,,MOD-0271,Includes sample source rows; verify ownership and exact model.
+272,4,,QSC KS118,,,MOD-0272,Includes sample source rows; verify ownership and exact model.
+273,3,,QSC KLA12,,,MOD-0273,Includes sample source rows; verify ownership and exact model.
