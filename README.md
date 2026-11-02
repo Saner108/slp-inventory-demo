@@ -50,16 +50,16 @@ Excel is a **preparation and review tool**, not the final database. It is easy t
 
 The files in `data/` are plain-text copies of the same three tables. CSV files are useful for reviewing changes on GitHub, running data checks, writing scripts, and importing one table at a time. They are not additional datasets; they are alternate versions of the workbook tables.
 
-### Access file
+### Access database
 
-There is **no `.accdb` or `.mdb` Access file in this repository yet**. This repository provides the data and proposed table structure for an existing or newly created Access database. Access files are not included because they are binary files, may contain local or sensitive data, and are harder to review than CSV files.
+[Download the Microsoft Access database](SLP_DB_V2.accdb) to open the current database file. It is the binary database version of the inventory structure documented by the workbook and CSV files. Because Access files are harder to review in GitHub, use the workbook and CSV files for transparent data review and change tracking.
 
 ### How the files work together
 
 1. Review and correct the tables in the Excel workbook.
 2. Use the CSV files as clean, portable copies of those tables.
-3. Create or open the Access database.
-4. Import `EquipmentCategory.csv` first.
+3. Open `SLP_DB_V2.accdb` in Microsoft Access to inspect or continue working with the database.
+4. If rebuilding or updating the database, import `EquipmentCategory.csv` first.
 5. Import `EquipmentModel.csv` second, using `CategoryID` to connect each model to a category.
 6. Import `EquipmentItem.csv` third, using `ModelID` to connect each item to a model.
 7. In Access, define and test the relationships between the three tables.
