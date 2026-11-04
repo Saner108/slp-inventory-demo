@@ -6,3 +6,6 @@
 *.ldb
 *.tmp
 *.log
+
+# Include the selected project snapshot; keep other database files ignored.
+!/SLP_DB_V2.52.accdb
