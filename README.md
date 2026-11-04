@@ -1,6 +1,18 @@
-# Sound Lighting Pros — Microsoft Access Project
+# Sound Lighting Pros — Inventory and Systems Analysis Project
 
-A BAIS 3350 Systems Analysis and Design team project covering customers, events, proposals, orders, equipment, workers, fulfillment, and billing.
+This repository contains a BAIS 3350 Systems Analysis and Design team project for Sound Lighting Pros (SLP). Its purpose is to model and document an event-production business system that connects customers, events, proposals, orders, equipment, workers, fulfillment, and billing, while also showing how a large equipment list can be prepared for database use.
+
+The project highlights team collaboration in a remote setting. Shared database snapshots, portable CSV tables, and an editable workbook give teammates a common source for reviewing changes, checking data, and coordinating work without requiring everyone to use Microsoft Access at the same time. It also assists with real-world development and preparation by practicing requirements analysis, relational data design, inventory organization, validation, documentation, and the limitations that must be resolved before a system is production-ready.
+
+This is coursework and demonstration data, not a deployed business application or verified company inventory.
+
+## Project purpose and learning goals
+
+- Design a relational information system for an event-production company.
+- Separate equipment categories, shared equipment models, and individual equipment items so the data can scale without unnecessary duplication.
+- Connect operational records such as customers, events, proposals, orders, reservations, workers, invoices, payments, and deliveries.
+- Give a remote team reviewable files and repeatable checks for collaborative development.
+- Prepare students for real-world development by documenting assumptions, identifying data-quality gaps, and distinguishing a working prototype from a production system.
 
 ## Current database: V2.52
 
@@ -35,7 +47,18 @@ The Help-text cleanup has not been applied. No audit history was deleted. This u
 | [data/](data/) | Earlier inventory CSV exports; not synchronized V2.52 exports |
 | [INVENTORY_PREPARATION.md](INVENTORY_PREPARATION.md) | Original inventory documentation and source-data limitations |
 
-The older workbook and CSV files document inventory preparation. Do not reimport them over V2.52 transaction data or assume their serial/barcode values match the current database.
+The older workbook and CSV files document inventory preparation and provide the most transparent way to review the 700-row staging dataset. They are not synchronized V2.52 exports. Do not reimport them over V2.52 transaction data or assume their serial/barcode values match the current database.
+
+## Collaboration and development use
+
+The repository is organized so that different contributors can work from the same documented baseline:
+
+1. Use the README and `INVENTORY_PREPARATION.md` to understand scope, assumptions, and known limitations.
+2. Review the workbook or CSV files when checking inventory structure and source values.
+3. Use the Access file for forms, reports, queries, relationships, and business-process review.
+4. Record and verify changes before treating them as part of the shared project baseline.
+
+This workflow mirrors real development preparation: teams work from shared artifacts, validate dependencies and data quality, communicate known gaps, and avoid treating sample or unverified values as operational truth.
 
 SHA-256 for the current database:
 
