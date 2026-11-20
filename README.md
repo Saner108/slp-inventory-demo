@@ -27,6 +27,8 @@ The November 4, 2026 read-only inspection found:
 - 700 equipment-item records and 273 shared equipment-model records.
 - Connected saved customer, event, proposal, order, reservation, worker-assignment, invoice, payment, and delivery records.
 
+A newer draft, **SLP_DB_V3.1.accdb**, has been received but not yet inspected or verified. It is not the current baseline until it is reviewed and added to the repository. Until then, treat V2.52 as the reviewed snapshot.
+
 Compared with the inspected V2.51 snapshot, V2.52 changes 700 equipment barcodes and 699 serial-number values. Numeric keys, relationships, transaction records, accepted prices, saved forms, reports, queries, and VBA are unchanged. The new identifier formats do not establish verified physical asset labels or manufacturer serial numbers.
 
 ## Verification and remaining work
